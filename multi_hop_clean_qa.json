@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Avogadro's number contains a specific power of ten. What is that power? Then, raise the number 3 to the power you found. What is the result?",
+    "answer": "94143178827"
+  },
+  {
+    "question": "Avogadro's number is approximately 6.022 x 10 raised to a certain power. A hexagon has a specific number of sides. What is the product of Avogadro's exponent and the number of sides of a hexagon?",
+    "answer": "138"
+  },
+  {
+    "question": "Avogadro's number represents the number of atoms in one mole of a substance. If you have 2 moles of Helium atoms, how many total atoms of Helium do you have?",
+    "answer": "4.6 x 10<sup>24</sup>"
+  },
+  {
+    "question": "Avogadro's number is a fundamental constant in chemistry, expressed with an exponent. If you multiply this exponent by the number of cards in a single suit of standard playing cards, what is the result?",
+    "answer": "299"
+  },
+  {
+    "question": "Avogadro's number represents a very large quantity of particles. What is the result of multiplying the exponent found in Avogadro's number by the square root of nine?",
+    "answer": "69"
+  },
+  {
+    "question": "If one mole of water contains Avogadro's number of water molecules, and each water molecule contains a certain number of hydrogen atoms, how many hydrogen atoms are there in two moles of water?",
+    "answer": "2.41 x 10<sup>24</sup>"
+  },
+  {
+    "question": "Avogadro's number represents a fundamental constant in chemistry. What is the exponent in Avogadro's number, multiplied by the value of five factorial?",
+    "answer": "2760"
+  },
+  {
+    "question": "Avogadro's number is a fundamental constant in chemistry. A tetrahedron is a geometric shape with a specific number of corners. If you multiply the exponent in Avogadro's number by the number of vertices in a tetrahedron, what is the result?",
+    "answer": "92"
+  },
+  {
+    "question": "What is the product of the exponent in Avogadro's number and the number of degrees in a right angle, multiplied by 10<sup>23</sup>?",
+    "answer": "2.07e+26"
+  },
+  {
+    "question": "What is Pi truncated to the one's place, raised to the power of the number of sides a hexagon has?",
+    "answer": "729"
+  },
+  {
+    "question": "If you truncate the value of Pi to the nearest whole number, and then raise that result to the power of the atomic number of Helium, what is the final value?",
+    "answer": "9"
+  },
+  {
+    "question": "If you have a number of groups equal to the truncated value of Pi, and each group contains the same number of cards as there are in a single suit of a standard deck of playing cards, what is the total number of cards?",
+    "answer": "39"
+  },
+  {
+    "question": "If you truncate the value of Pi to the nearest whole number, and then find the square root of nine, what is the result of raising the truncated Pi value to the power of the square root of nine?",
+    "answer": "27"
+  },
+  {
+    "question": "If you represent the value of Pi (truncated to the one's place) with apples, and you have a number of oranges equal to the number of hydrogen atoms in a single water molecule, how many total pieces of fruit do you have if you combine all the apples and oranges into groups of two?",
+    "answer": "3"
+  },
+  {
+    "question": "If you take five factorial and divide it by the value of Pi truncated to the one's place, what is the result?",
+    "answer": "40"
+  },
+  {
+    "question": "If you truncate the value of Pi to the nearest whole number, and then raise that result to the power of the number of vertices on a tetrahedron, what is the final value?",
+    "answer": "81"
+  },
+  {
+    "question": "If a circle's radius is equal to the truncated value of Pi, and a right angle is formed at the center of that circle, what is the product of the radius and the degree measure of the right angle?",
+    "answer": "270"
+  },
+  {
+    "question": "If you have 2 groups of hexagons, and each hexagon contains 6 Helium atoms, how many Helium atoms are there in total?",
+    "answer": "12"
+  },
+  {
+    "question": "Imagine you are arranging playing cards into the shape of hexagons. Each hexagon requires 6 cards per side. If you have 13 suits of cards, and you want to create as many complete hexagons as possible, how many cards will you need in total?",
+    "answer": "144"
+  },
+  {
+    "question": "If you have one hexagon, and you multiply the number of its sides by the square root of nine, what is the result?",
+    "answer": "18"
+  },
+  {
+    "question": "A builder is creating a pattern using hexagonal tiles. Each tile is decorated with water droplets. If each hexagonal tile has 6 sides, and each water droplet contains 2 hydrogen atoms, how many hydrogen atoms are represented across all the sides of one hexagonal tile if each side has one water droplet?",
+    "answer": "12"
+  },
+  {
+    "question": "What is five factorial divided by the number of sides of a hexagon?",
+    "answer": "20"
+  },
+  {
+    "question": "If you were to create a collection of objects where each object represents a side of a hexagon and each object is connected to a vertex of a tetrahedron, how many connections would there be in total?",
+    "answer": "24"
+  },
+  {
+    "question": "The sum of the interior angles of a hexagon is 720 degrees. What is the difference between the sum of the interior angles of a hexagon and the product of the number of sides of a hexagon and the number of degrees in a right angle?",
+    "answer": "180"
+  },
+  {
+    "question": "If each Helium atom represents a suit of playing cards, and each suit contains 13 cards, how many cards would be represented by 2 Helium atoms?",
+    "answer": "26"
+  },
+  {
+    "question": "What is the result of raising the square root of nine to the power of the atomic number of Helium?",
+    "answer": "9"
+  },
+  {
+    "question": "If each water molecule contains a number of hydrogen atoms equal to the atomic number of Helium, and you have 2 water molecules, how many hydrogen atoms do you have in total?",
+    "answer": "4"
+  },
+  {
+    "question": "A scientist needs to purchase 120 specialized Helium tanks for an experiment. Each tank costs 2 dollars. What is the total cost of the Helium tanks?",
+    "answer": "240"
+  },
+  {
+    "question": "A scientist is studying Helium atoms and creating tetrahedral structures using them. If each tetrahedron requires 4 Helium atoms at its vertices, and the scientist creates 2 such tetrahedra, how many Helium atoms are used in total?",
+    "answer": "8"
+  },
+  {
+    "question": "If a right angle is divided into sections, and the number of sections is equal to the atomic number of Helium, what is the total number of degrees in all the sections combined?",
+    "answer": "180"
+  },
+  {
+    "question": "A magician has a deck of cards. He decides to perform a trick where he multiplies the number of cards in a single suit by the square root of nine. How many cards does the magician calculate?",
+    "answer": "39"
+  },
+  {
+    "question": "A scientist is organizing water molecules into groups. Each group contains a number of molecules equal to the number of cards in a standard playing card suit. If the scientist creates 2 such groups, how many hydrogen atoms are there in total across all the water molecules?",
+    "answer": "52"
+  },
+  {
+    "question": "If you have 13 cards in a suit and you want to arrange 5 of those cards in a specific order, and then you want to choose 120 different suits to do this with, how many total unique arrangements of 5 cards from a specific suit, across all those suits, are possible?",
+    "answer": "1560"
+  },
+  {
+    "question": "A standard deck of playing cards has four suits. Each suit contains a certain number of cards. A tetrahedron, a geometric shape, has a specific number of vertices. If you multiply the number of cards in one suit by the number of vertices on a tetrahedron, what is the result?",
+    "answer": "52"
+  },
+  {
+    "question": "A rectangle has a length equal to the number of cards in a standard playing card suit and a width equal to the number of degrees in a right angle. What is the area of this rectangle?",
+    "answer": "1170"
+  },
+  {
+    "question": "If you have a number of groups equal to the square root of nine, and each group contains two hydrogen atoms, how many hydrogen atoms do you have in total?",
+    "answer": "6"
+  },
+  {
+    "question": "What is the result of dividing five factorial by the square root of nine?",
+    "answer": "40"
+  },
+  {
+    "question": "If you multiply the square root of nine by the number of vertices on a tetrahedron, what is the result?",
+    "answer": "12"
+  },
+  {
+    "question": "A right angle measures 90 degrees. The square root of nine is a certain number. What is the result of dividing the number of degrees in a right angle by the square root of nine?",
+    "answer": "30"
+  },
+  {
+    "question": "A chemist has a number of groups, where each group contains two hydrogen atoms (as found in a single water molecule). If the chemist has 120 such groups (which is equal to five factorial), what is the total number of hydrogen atoms the chemist has?",
+    "answer": "240"
+  },
+  {
+    "question": "If you combine the number of hydrogen atoms in a single water molecule with the number of vertices on a tetrahedron, what is the product?",
+    "answer": "8"
+  },
+  {
+    "question": "If each hydrogen atom in a water molecule represents a certain angle measure, and a right angle is 90 degrees, what is the total angle measure represented by all the hydrogen atoms in one water molecule multiplied by the degrees in a right angle?",
+    "answer": "180"
+  },
+  {
+    "question": "A sculptor is creating a large geometric sculpture. He builds a framework using tetrahedra. Each tetrahedron requires 5! units of material to construct. If the sculptor wants to build 4 identical tetrahedra, how many total units of material will he need?",
+    "answer": "480"
+  },
+  {
+    "question": "A rectangle has a length equal to five factorial and a width equal to the number of degrees in a right angle. What is the area of the rectangle?",
+    "answer": "10800"
+  },
+  {
+    "question": "A geometric shape has a number of vertices equal to the number of vertices on a tetrahedron. Another angle measures 90 degrees, the measure of a right angle. What is the sum of the number of vertices and the degree measure of the angle?",
+    "answer": "94"
+  }
+]

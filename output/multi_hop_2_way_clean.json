@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is the difference between the exponent in Avogadro's number and the value of Pi truncated to the one's place?",
+    "answer": "20",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "What is the value of Pi, truncated to the one's place?"
+    ]
+  },
+  {
+    "question": "What is the product of the exponent in Avogadro's number and the number of sides on a hexagon?",
+    "answer": "138",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "How many sides does a hexagon have?"
+    ]
+  },
+  {
+    "question": "Multiply the exponent in Avogadro's number by the atomic number of Helium. What is the result?",
+    "answer": "46",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "What is the atomic number of Helium?"
+    ]
+  },
+  {
+    "question": "What is the result of dividing the exponent of Avogadro's number by the number of cards in any suit?",
+    "answer": "1.769",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "How many standard playing cards are there in one suit?"
+    ]
+  },
+  {
+    "question": "What is the sum of the exponent in Avogadro's number and the square root of nine?",
+    "answer": "26",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "What is the square root of nine?"
+    ]
+  },
+  {
+    "question": "What is the product of the exponent in Avogadro's number and the number of hydrogen atoms in a single water molecule?",
+    "answer": "46",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "How many hydrogen atoms are in a single water molecule?"
+    ]
+  },
+  {
+    "question": "What is the difference between the exponent in Avogadro's number and five factorial divided by ten?",
+    "answer": "11",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "What is the result of five factorial?"
+    ]
+  },
+  {
+    "question": "What number results when you subtract the number of vertices of a tetrahedron from the exponent in Avogadro's number?",
+    "answer": "19",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "How many vertices does a tetrahedron have?"
+    ]
+  },
+  {
+    "question": "What is the difference between the exponent in Avogadro's number and the number of degrees in a right angle?",
+    "answer": "-67",
+    "sources": [
+      "What is the exponent in Avogadro's number?",
+      "How many degrees are there in a right angle?"
+    ]
+  },
+  {
+    "question": "What is the product of the value of Pi, truncated to the one's place, and the number of sides on a hexagon?",
+    "answer": "18",
+    "sources": [
+      "What is the value of Pi, truncated to the one's place?",
+      "How many sides does a hexagon have?"
+    ]
+  },
+  {
+    "question": "What is the sum of the atomic number of Helium and the value of Pi truncated to the one's place?",
+    "answer": "5",
+    "sources": [
+      "What is the value of Pi, truncated to the one's place?",
+      "What is the atomic number of Helium?"
+    ]
+  },
+  {
+    "question": "What is the difference between the product of the value of Pi truncated to the one's place and the number of cards in a suit, and the sum of the same two values?",
+    "answer": "23",
+    "sources": [
+      "What is the value of Pi, truncated to the one's place?",
+      "How many standard playing cards are there in one suit?"
+    ]
+  },
+  {
+    "question": "What is the value of Pi, truncated to the one's place? What is the square root of nine? What is the sum of the above two results?",
+    "answer": "6",
+    "sources": [
+      "What is the value of Pi, truncated to the one's place?",
+      "What is the square root of nine?"
+    ]
+  },
+  {
+    "question": "If the value of Pi is truncated to the ones' place, and water molecules each contain a certain number of hydrogen atoms, what is the product of these two numbers?",
+    "answer": "6",
+    "sources": [
+      "What is the value of Pi, truncated to the one's place?",
+      "How many hydrogen atoms are in a single water molecule?"
+    ]
+  },
+  {
+    "question": "What is the result of the following calculation? First truncating pi to its ones place, and determining the value of five factorial. Next, divide five factorial by pi truncated to its ones place. Then, add the rounded value of Pi to the square root of the division from step 2, and round down to the nearest whole number.",
+    "answer": "9",
+    "sources": [
+      "What is the value of Pi, truncated to the one's place?",
+      "What is the result of five factorial?"
+    ]
+  },
+  {
+    "question": "What is the sum of the value of Pi truncated to one's place and the number of vertices of a tetrahedron?",
+    "answer": "7",
+    "sources": [
+      "What is the value of Pi, truncated to the one's place?",
+      "How many vertices does a tetrahedron have?"
+    ]
+  },
+  {
+    "question": "What is the product of the value of Pi, truncated to the one's place, and the number of degrees in a right angle?",
+    "answer": "270",
+    "sources": [
+      "What is the value of Pi, truncated to the one's place?",
+      "How many degrees are there in a right angle?"
+    ]
+  },
+  {
+    "question": "Find the product of the number of sides of a hexagon and the atomic number of Helium. Then, add the number of fingers on one hand to the product. What is the final result?",
+    "answer": "17",
+    "sources": [
+      "How many sides does a hexagon have?",
+      "What is the atomic number of Helium?"
+    ]
+  },
+  {
+    "question": "If you multiply the number of sides on a hexagon by the number of cards in a single suit, and then add 2, what is the result?",
+    "answer": "80",
+    "sources": [
+      "How many sides does a hexagon have?",
+      "How many standard playing cards are there in one suit?"
+    ]
+  },
+  {
+    "question": "What is the product of the number of sides a hexagon has and the square root of nine?",
+    "answer": "18",
+    "sources": [
+      "How many sides does a hexagon have?",
+      "What is the square root of nine?"
+    ]
+  },
+  {
+    "question": "What is the product of the number of sides on a hexagon and the number of hydrogen atoms in a single water molecule?",
+    "answer": "12",
+    "sources": [
+      "How many sides does a hexagon have?",
+      "How many hydrogen atoms are in a single water molecule?"
+    ]
+  },
+  {
+    "question": "What is the sum of the number of sides on a hexagon and the result of five factorial?",
+    "answer": "126",
+    "sources": [
+      "How many sides does a hexagon have?",
+      "What is the result of five factorial?"
+    ]
+  },
+  {
+    "question": "What is the product of the number of sides of a hexagon and the number of vertices of a tetrahedron?",
+    "answer": "24",
+    "sources": [
+      "How many sides does a hexagon have?",
+      "How many vertices does a tetrahedron have?"
+    ]
+  },
+  {
+    "question": "If you multiply the number of sides in a hexagon by the number of degrees in a right angle, what is the result?",
+    "answer": "540",
+    "sources": [
+      "How many sides does a hexagon have?",
+      "How many degrees are there in a right angle?"
+    ]
+  },
+  {
+    "question": "If you multiply the atomic number of Helium by the number of cards in one suit of a standard playing card deck, what is the result?",
+    "answer": "26",
+    "sources": [
+      "What is the atomic number of Helium?",
+      "How many standard playing cards are there in one suit?"
+    ]
+  },
+  {
+    "question": "If the atomic number of Helium is multiplied by the square root of nine, what is the result?",
+    "answer": "6",
+    "sources": [
+      "What is the atomic number of Helium?",
+      "What is the square root of nine?"
+    ]
+  },
+  {
+    "question": "Multiply the atomic number of Helium by the number of hydrogen atoms in a single water molecule. What is the result?",
+    "answer": "4",
+    "sources": [
+      "What is the atomic number of Helium?",
+      "How many hydrogen atoms are in a single water molecule?"
+    ]
+  },
+  {
+    "question": "What is the sum of the result of five factorial minus the atomic number of helium, plus 5?",
+    "answer": "123",
+    "sources": [
+      "What is the atomic number of Helium?",
+      "What is the result of five factorial?"
+    ]
+  },
+  {
+    "question": "What is the difference between the number of vertices of a tetrahedron and the atomic number of Helium?",
+    "answer": "2",
+    "sources": [
+      "What is the atomic number of Helium?",
+      "How many vertices does a tetrahedron have?"
+    ]
+  },
+  {
+    "question": "What is the product of the atomic number of Helium and the number of degrees in a right angle?",
+    "answer": "180",
+    "sources": [
+      "What is the atomic number of Helium?",
+      "How many degrees are there in a right angle?"
+    ]
+  },
+  {
+    "question": "What is the product of the number of cards in a single suit, and the square root of nine?",
+    "answer": "39",
+    "sources": [
+      "How many standard playing cards are there in one suit?",
+      "What is the square root of nine?"
+    ]
+  },
+  {
+    "question": "If you pick one suit of a standard deck of cards, how many cards will you have? The number of hydrogen atoms found in a single water molecule is equal to this quantity minus 11. What is the product of these two quantities?",
+    "answer": "26",
+    "sources": [
+      "How many standard playing cards are there in one suit?",
+      "How many hydrogen atoms are in a single water molecule?"
+    ]
+  },
+  {
+    "question": "If you have one suit of standard playing cards and five factorial represents a number, what is the product of the number of cards in the suit and the result of five factorial?",
+    "answer": "1560",
+    "sources": [
+      "How many standard playing cards are there in one suit?",
+      "What is the result of five factorial?"
+    ]
+  },
+  {
+    "question": "What is the product of the number of cards in a standard suit and the number of vertices in a tetrahedron?",
+    "answer": "52",
+    "sources": [
+      "How many standard playing cards are there in one suit?",
+      "How many vertices does a tetrahedron have?"
+    ]
+  },
+  {
+    "question": "If you multiply the number of cards in one suit of a standard playing card deck by the number of degrees in a right angle, what is the result?",
+    "answer": "1170",
+    "sources": [
+      "How many standard playing cards are there in one suit?",
+      "How many degrees are there in a right angle?"
+    ]
+  },
+  {
+    "question": "What is the product of the square root of nine and the number of hydrogen atoms in a single water molecule?",
+    "answer": "6",
+    "sources": [
+      "What is the square root of nine?",
+      "How many hydrogen atoms are in a single water molecule?"
+    ]
+  },
+  {
+    "question": "What is the result when you subtract the square root of nine from the value of five factorial?",
+    "answer": "117",
+    "sources": [
+      "What is the square root of nine?",
+      "What is the result of five factorial?"
+    ]
+  },
+  {
+    "question": "Multiply the square root of nine by the number of vertices in a tetrahedron. Then add five. What is the final result?",
+    "answer": "17",
+    "sources": [
+      "What is the square root of nine?",
+      "How many vertices does a tetrahedron have?"
+    ]
+  },
+  {
+    "question": "If you multiply the square root of nine by the number of degrees in a right angle, and then subtract the number of degrees in a right angle, what is the final answer, in degrees?",
+    "answer": "180",
+    "sources": [
+      "What is the square root of nine?",
+      "How many degrees are there in a right angle?"
+    ]
+  },
+  {
+    "question": "Multiply the number of hydrogen atoms in a single water molecule by the result of five factorial. What is the final result?",
+    "answer": "240",
+    "sources": [
+      "How many hydrogen atoms are in a single water molecule?",
+      "What is the result of five factorial?"
+    ]
+  },
+  {
+    "question": "A scientist analyzes a single molecule of water, and finds that it has an impressive number of hydrogen atoms. She then compares this molecule to a simple geometric shape. If the geometric shape has 4 points where the sides meet, what is the total of the number of hydrogen atoms in the water molecule and the number of points of the shape?",
+    "answer": "6",
+    "sources": [
+      "How many hydrogen atoms are in a single water molecule?",
+      "How many vertices does a tetrahedron have?"
+    ]
+  },
+  {
+    "question": "If you have a right angle, and each molecule of water has 2 hydrogen atoms, what is the product of the number of hydrogen atoms and the number of degrees in the right angle?",
+    "answer": "180",
+    "sources": [
+      "How many hydrogen atoms are in a single water molecule?",
+      "How many degrees are there in a right angle?"
+    ]
+  },
+  {
+    "question": "What is the product of five factorial and the number of vertices on a tetrahedron?",
+    "answer": "480",
+    "sources": [
+      "What is the result of five factorial?",
+      "How many vertices does a tetrahedron have?"
+    ]
+  },
+  {
+    "question": "What is the difference between five factorial and the number of degrees in a right angle?",
+    "answer": "30",
+    "sources": [
+      "What is the result of five factorial?",
+      "How many degrees are there in a right angle?"
+    ]
+  },
+  {
+    "question": "What is the product of the number of vertices in a tetrahedron and the number of degrees in a right angle?",
+    "answer": "360",
+    "sources": [
+      "How many vertices does a tetrahedron have?",
+      "How many degrees are there in a right angle?"
+    ]
+  }
+]
